@@ -2,8 +2,10 @@
 Sublime Text settings backup
 
 
+Preferences -> Settings<br>
 ~/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
 
+Preferences -> Key Bindings<br>
 ~/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap
 
 
